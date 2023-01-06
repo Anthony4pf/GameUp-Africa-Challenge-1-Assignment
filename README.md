@@ -1,2 +1,16 @@
-# GameUp-Africa-Challenge-1-Assignment
-The project files of the completed Unity Learn with Code Exercise 1 tutorial.
+# Welcome to the Simple Driving Simulator!
+
+This game was developed as part of the Maliyo Gameup Africa bootcamp using Unity. In this game, you will steer down a floating road and try to avoid obstacles in your way. The goal is to get as far as possible without crashing.
+
+## How to Play
+Use the arrow keys on your keyboard to steer the car. Try to stay on the road and avoid crashing into obstacles.
+
+## Installation
+To play the game, you will need to have the Unity game engine installed on your computer.
+
+Once you have Unity installed, simply clone this repository and open the project in Unity. From there, you can hit the play button to start the game.
+
+## Credits
+The Simple Driving Simulator was created by Anthony Ede as part of the Maliyo Gameup Africa bootcamp. Special thanks to [Maliyo Games](https://www.maliyo.com/) for their help and support.
+
+We hope you enjoy playing the Simple Driving Simulator :pray: :raised_hands:
